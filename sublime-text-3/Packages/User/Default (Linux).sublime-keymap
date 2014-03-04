@@ -1,0 +1,7 @@
+[
+	{"keys": ["ctrl+shift+c"], "command": "exec", "args": {"kill": true} }, 
+	{ "keys": ["ctrl+shift+k"], "command": "reveal_in_side_bar" },
+	{ "keys": ["alt+left"], "command": "focus_side_bar" },
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": true } },
+	{ "keys": ["ctrl+alt+shift+r"], "command": "reindent" , "args": { "single_line": false } }
+]

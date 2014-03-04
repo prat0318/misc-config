@@ -1,0 +1,1434 @@
+{
+	"folder_history":
+	[
+		"/home/prat0318/projects/dbms/proj_2/tests",
+		"/home/prat0318/projects/prettyresu.me",
+		"/home/prat0318/projects/osr-scheduler",
+		"/home/prat0318/projects/json_resume",
+		"/home/prat0318/projects/prat0318.github.io",
+		"/home/prat0318/projects/octokit.rb",
+		"/home/prat0318/projects/gitator",
+		"/home/prat0318/projects/django-datatables-view-example",
+		"/home/prat0318/projects/unity_db",
+		"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6",
+		"/home/prat0318/Downloads/EquarkWTests",
+		"/home/prat0318/projects"
+	],
+	"last_version": 3047,
+	"last_window_id": 9,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 697.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"__",
+						"__Singleton"
+					],
+					[
+						"reqe",
+						"request_get"
+					],
+					[
+						"unity",
+						"unity_search_service"
+					],
+					[
+						"subm",
+						"submodes"
+					],
+					[
+						"field",
+						"field_type"
+					],
+					[
+						"w",
+						"weights"
+					],
+					[
+						"input",
+						"inputfile"
+					],
+					[
+						"floa",
+						"float('inf"
+					],
+					[
+						"min",
+						"find_min"
+					],
+					[
+						"fin",
+						"find_min_hops"
+					],
+					[
+						"dataset_pvtda",
+						"dataset_pvtdata1"
+					],
+					[
+						"data",
+						"dataset_name"
+					],
+					[
+						"rev_",
+						"rev_sent"
+					],
+					[
+						"rever",
+						"reverse_words"
+					],
+					[
+						"rev",
+						"rev_sent"
+					],
+					[
+						"prin",
+						"print_list"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"error",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sublimel",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sub",
+						"SublimeREPL: Python"
+					],
+					[
+						"packag",
+						"Package Control: Remove Package"
+					],
+					[
+						"pyth",
+						"Set Syntax: Python"
+					],
+					[
+						"pytho",
+						"Set Syntax: Python"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"package control:",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax: pyt",
+						"Set Syntax: Python"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 194.0,
+				"history":
+				[
+					"print \"hello\"",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) ",
+					"print c;",
+					"print c",
+					"c=a+3",
+					"c=a+b",
+					"a=4",
+					"asa",
+					";",
+					"a=1",
+					"print \"hello\""
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/prat0318/projects/unity_db/template/navbar.html",
+				"/home/prat0318/projects/unity_db/template/base.html",
+				"/home/prat0318/projects/unity_db/template/query_output.html",
+				"/home/prat0318/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/prat0318/projects/unity_db/template/query_form.html",
+				"/home/prat0318/projects/unity_db/unity_app/models.py",
+				"/home/prat0318/projects/unity_db/unity_app/unity_service.py",
+				"/home/prat0318/projects/unity_db/unity_app/views.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0063_auto__del_field_datasetadapter_human_readable_name__add_field_dataseta.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0011_add_seed_data_for_adapter.py",
+				"/home/prat0318/projects/unity_db/unity_app/data/dataset_adapter_seed.csv",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0062_rename_field_name_to_human_readable_name.py",
+				"/home/prat0318/projects/unity_db/unity_app/templatetags/helpers.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0045_auto__add_field_datasetncast_hwy_link.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0023_add_adapter_seed_data_for_hpms.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0058_change_hwy_link_ncast_format.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0061_add_sub_modes.py",
+				"/home/prat0318/Downloads/tmp.py",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/libpl/discontiguous.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/script.txt",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/libpl/swiplInstalled.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/conform.txt",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/tmpconform.sdb.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/src/CoreMDELite/SDB.java",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/libpl/sdb.schema.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/libpl/print.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/src/CoreMDELite/GProlog.java",
+				"/home/prat0318/Downloads/EquarkWTests/src/quark/I.java",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/sgd_omp.cpp",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/gd_omp_new.cpp",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/sgd_omp_new.cpp",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/regression.cpp",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/scd.cpp",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/gd_omp_for_galois.cpp",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/cdescent_galois.cpp",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/gd.cpp",
+				"/home/prat0318/Downloads/SCD/scd.cc",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/modify_inputfile.py",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/matrix_multiply.cpp",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/sgd.cpp",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/mnist",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/cdescent.cpp",
+				"/home/prat0318/Downloads/RegTest/Utility.java",
+				"/home/prat0318/Downloads/twoClass.xmi",
+				"/home/prat0318/Documents/courses/FOP/fop/argouml/src/argouml-core-model-mdr/tests/testmodels/test.xmi",
+				"/home/prat0318/projects/tmp.py",
+				"/home/prat0318/Documents/courses/FOP/fop/P6_Akanksha_Gaurav_Prateek/outputs/dogFsm.state.violet.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/argouml/src/argouml-core-model/src/org/argouml/model/Facade.java",
+				"/home/prat0318/Documents/courses/FOP/H4/h4.pl",
+				"/home/prat0318/Documents/courses/FOP/H2/p2.pl",
+				"/home/prat0318/Downloads/ShoppingCart.xmi",
+				"/home/prat0318/Documents/courses/FOP/fop/argouml/src/argouml-core-model-mdr/build.sh",
+				"/home/prat0318/Downloads/country.zargo_FILES/country.xmi",
+				"/home/prat0318/Downloads/country.zargo_FILES/country_ClassDiagram.pgml",
+				"/home/prat0318/projects/c++_scripts/multicore/PageRank/paraCore.cpp",
+				"/home/prat0318/Downloads/argouml-0.34/README.txt",
+				"/home/prat0318/projects/unity_db/static/assets/js/unityQueryForm.js",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0031_add_hpms_county_data.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0032_auto__chg_field_datasethpms_county_nbr__add_index_datasethpms_county_n.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0030_auto__add_datasethpmscounty.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0029_auto__chg_field_datasethpmscity_pop_cd__chg_field_datasethpmscity_pop_.py",
+				"/home/prat0318/Downloads/tx_old",
+				"/home/prat0318/Downloads/tx_new",
+				"/home/prat0318/projects/unity_db/template/splash.html",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0052_auto__add_field_datasetmode_parent.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0051_auto__add_unique_datasetmode_name__chg_field_datasetcfs_mode_of_transp.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0043_auto__chg_field_datasetcfs_origin_state__add_index_datasetcfs_origin_s.py",
+				"/home/prat0318/Downloads/scatter_demo.py",
+				"/home/prat0318/Downloads/city_user.xmi",
+				"/home/prat0318/Downloads/cityUser/City.java",
+				"/home/prat0318/Downloads/sparSDCA/README",
+				"/home/prat0318/Downloads/Open_ModelSphere_971/GETSTARTED.TXT",
+				"/home/prat0318/Downloads/Open_ModelSphere_971/README.TXT",
+				"/home/prat0318/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/prat0318/projects/py_scripts/human_sort.py",
+				"/home/prat0318/projects/py_scripts/sublength.py",
+				"/home/prat0318/projects/output",
+				"/home/prat0318/.config/sublime-text-3/Packages/SideBarEnhancements/CHANGELOG",
+				"/home/prat0318/Downloads/justify.py",
+				"/home/prat0318/Downloads/justify2.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"*py",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"field_name",
+					"json",
+					"submo",
+					"get_item",
+					"dataset_faf_id",
+					"Error : ",
+					"\\n+",
+					"0\\.",
+					"Error : ",
+					"\\n\\n",
+					"0.2",
+					"Error : ",
+					"scriptFile",
+					"w",
+					"labels_file",
+					"label_count",
+					"num_examples",
+					"labels",
+					"sparse_vector",
+					"ifdef",
+					"alpha",
+					"n",
+					"line",
+					"ato",
+					"to_i",
+					"k",
+					"mnist",
+					"comp",
+					"samples",
+					"chunk_size",
+					"threads",
+					"weights",
+					"val",
+					"j1",
+					"intercept",
+					"Graph",
+					"associationend",
+					"associat",
+					"classifier",
+					"geti",
+					"id(",
+					"id",
+					"id(",
+					"getName",
+					"get*Id",
+					"association",
+					"city_nbr",
+					"dataset_pws",
+					"destination_state_id",
+					"mode_of_transportation_id",
+					"nbsp",
+					"/><",
+					")):\n",
+					"head",
+					"rotate",
+					"find_min",
+					") ",
+					"print",
+					"start",
+					"else",
+					")"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"dataset_faf",
+					"",
+					"\\n",
+					"\\n0.",
+					"",
+					"\\n",
+					"\\n0.2",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 160.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"0045_auto__add_field_datasetncast_hwy_link.py",
+						"unity_app/migrations/0045_auto__add_field_datasetncast_hwy_link.py"
+					],
+					[
+						"migrations/0023_add_adapter_seed_data_for_hpms.py",
+						"unity_app/migrations/0023_add_adapter_seed_data_for_hpms.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 33.0,
+				"selected_items":
+				[
+				],
+				"width": 431.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 165.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1267.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"emp",
+						"empno"
+					],
+					[
+						"em",
+						"empno"
+					],
+					[
+						"grad_",
+						"grad_courses"
+					],
+					[
+						"json",
+						"json_resume"
+					],
+					[
+						"json_",
+						"json_input"
+					],
+					[
+						"jso",
+						"json_input"
+					],
+					[
+						"Tech",
+						"Technology"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"fl",
+						"float:left"
+					],
+					[
+						"search",
+						"search_string"
+					],
+					[
+						"float",
+						"float:right"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"place",
+						"placesFrom"
+					],
+					[
+						"call",
+						"call_backend"
+					],
+					[
+						"user",
+						"user_orgs_cache"
+					],
+					[
+						"count",
+						"countType"
+					],
+					[
+						"repo",
+						"repo_name"
+					],
+					[
+						"on",
+						"onclick	Attr"
+					],
+					[
+						"fad",
+						"fadeIn"
+					],
+					[
+						"aler",
+						"alert-warning"
+					],
+					[
+						"get_",
+						"get_client"
+					],
+					[
+						"fetch",
+						"fetch_params"
+					],
+					[
+						"data",
+						"dataset_param"
+					],
+					[
+						"sear",
+						"search_dataset"
+					],
+					[
+						"query",
+						"queryset"
+					],
+					[
+						"placeT",
+						"placeToFind"
+					],
+					[
+						"dataset_pvt",
+						"dataset_pvtdata1"
+					],
+					[
+						"dataset_pvtdat",
+						"dataset_pvtdata2"
+					],
+					[
+						"view",
+						"view_klass"
+					],
+					[
+						"cam",
+						"camelize"
+					],
+					[
+						"col",
+						"col_names"
+					],
+					[
+						"Dat",
+						"DatasetNcastView"
+					],
+					[
+						"uni",
+						"unity_helper"
+					],
+					[
+						"url",
+						"urlpatterns"
+					],
+					[
+						"dataset_ncast",
+						"dataset_ncast_table"
+					],
+					[
+						"users",
+						"users_cache"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"padding-",
+						"padding-right"
+					],
+					[
+						"foo",
+						"footerHtml"
+					],
+					[
+						"addC",
+						"addCommas"
+					],
+					[
+						"fork",
+						"forkWithCount"
+					],
+					[
+						"follow",
+						"following"
+					],
+					[
+						"grava",
+						"gravatar_id"
+					],
+					[
+						"repos",
+						"repos_hash"
+					],
+					[
+						"lang",
+						"langs_arr"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"ajax",
+						"ajaxCall"
+					],
+					[
+						"heig",
+						"height-120"
+					],
+					[
+						"param",
+						"param_lang"
+					],
+					[
+						"para",
+						"param_lang"
+					],
+					[
+						"for",
+						"forked_repo"
+					],
+					[
+						"contri",
+						"contri_repo"
+					],
+					[
+						"fo",
+						"for_lang"
+					],
+					[
+						"phr",
+						"phrasie"
+					],
+					[
+						"own",
+						"own_repo"
+					],
+					[
+						"Octok",
+						"Octokit::Client"
+					],
+					[
+						"reposi",
+						"repositories"
+					],
+					[
+						"faf",
+						"faf_columns"
+					],
+					[
+						"DatasetF",
+						"DatasetFafView"
+					],
+					[
+						"filtered",
+						"filtered_resultset"
+					],
+					[
+						"__",
+						"__Singleton"
+					],
+					[
+						"reqe",
+						"request_get"
+					],
+					[
+						"unity",
+						"unity_search_service"
+					],
+					[
+						"subm",
+						"submodes"
+					],
+					[
+						"field",
+						"field_type"
+					],
+					[
+						"w",
+						"weights"
+					],
+					[
+						"input",
+						"inputfile"
+					],
+					[
+						"floa",
+						"float('inf"
+					],
+					[
+						"min",
+						"find_min"
+					],
+					[
+						"fin",
+						"find_min_hops"
+					],
+					[
+						"dataset_pvtda",
+						"dataset_pvtdata1"
+					],
+					[
+						"rev_",
+						"rev_sent"
+					],
+					[
+						"rever",
+						"reverse_words"
+					],
+					[
+						"rev",
+						"rev_sent"
+					],
+					[
+						"prin",
+						"print_list"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "a = Mustache.render(File.read(\"lib/page.mustache\"), JSON.parse(File.read(\"lib/page.json\"))); File.open('../prat0318.github.io/page.html','w') {|f| f.write(a) }\n\nPDFKit.configure do |config|   config.default_options = {     :footer_right => \"Page [page] of [toPage]    .\\n\", :footer_font_size => 10, :footer_font_name => \"Georgia\"   } end\n\nkit = PDFKit.new(\"http://localhost/prat0318.github.io/core-page.html\", {:margin_top => 2.0, :margin_left=> 0.0, :margin_right => 0.0, :margin_bottom => 4.0, :page_size => 'Letter'})\n\nkit.to_file(\"../prat0318.github.io/public/resume.pdf\")\n\n\nJS:\n\n$('.label-default').removeClass('label-default').removeClass('label').addClass('label1').append('<span class=\"comma\">, </span>')\n$('.label1').parent().each(function() {$(this).children().last().children().last().text('.');})\n\nOR create and hide during creation\n\n$('.glyphicon').hide()\n\n\n\n\nselect * from customers natural join zipcodes where  not exists (select ono from orders natural join odetails where cno=customers.cno and  pno is null );\n\nselect pname from parts where not exists(\n	select cname from customers natural join zipcodes where city='Austin' and not exists(\n		select ono from orders natural join odetails where cno=customers.cno and parts.pno = pno )\n		)\n\nA - (w, q, x) - (1,40,1), (1,40,2), (2,40,3), (2,40,4)\nC - (w)\n\nrequire 'json_resume'; require 'mustache'\na = JsonResume.new('lib/page.json')\naa  = Mustache.render(File.read(\"lib/page.mustache\"), a.reader.hash)\nFile.open('../prat0318.github.io/page.html','w') {|f| f.write(aa) }\n\n\njavac -cp ../jakarta.jar:../je-5.0.103.jar mdb/*.java minidb/models/*.java minidb/je/*.java\njava -cp ../jakarta.jar:../je-5.0.103.jar:. mdb.Main -f ../../tests/ddltest.sql\njava -cp ../jakarta.jar:../je-5.0.103.jar:. mdb.Main -f ../../tests/dmltest.sql\n\n512 471 4772\n\n\ngit(){(umask 0022; command /usr/bin/git \"$@\")}\nwd=/u/thunt/cs373-netflix-tests\n/usr/bin/git -C $wd pull\n\n\n prt  path  <fil>={ buffers }=<mru> <-> needed\n prt  path  <buf>={ mru files }=<fil> <-> \n\n\n PAN 	A.Y. 	ITR Name 	Rectification\nReference No. 	Rectification\ndate 	CPC Order No. 	CPC Order\nDate 	Status\nAIDPA6302L 	2012-13 	ITR-1 	607865250100214 	10/02/2014 	CPC/1213/P1/1321910302 	19/01/2014 	Rectification processed demand determined \n\n\n\n\n\n\n\n",
+					"settings":
+					{
+						"buffer_size": 2254,
+						"line_ending": "Unix",
+						"name": "a = Mustache.render(File.read(\"lib/page.mustache\")"
+					}
+				},
+				{
+					"file": "/home/prat0318/Downloads/a.rb",
+					"settings":
+					{
+						"buffer_size": 669,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/prat0318/Downloads/b.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix",
+						"name": "def func(p, a, g, x):"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"error",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sublimel",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sub",
+						"SublimeREPL: Python"
+					],
+					[
+						"packag",
+						"Package Control: Remove Package"
+					],
+					[
+						"pyth",
+						"Set Syntax: Python"
+					],
+					[
+						"pytho",
+						"Set Syntax: Python"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"package control:",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax: pyt",
+						"Set Syntax: Python"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 194.0,
+				"history":
+				[
+					"print \"hello\"",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) ",
+					"print c;",
+					"print c",
+					"c=a+3",
+					"c=a+b",
+					"a=4",
+					"asa",
+					";",
+					"a=1",
+					"print \"hello\""
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/prat0318/projects/dbms/proj_2/tests/dmltest1.sql",
+				"/home/prat0318/projects/dbms/proj_2/tests/dmltest.sql",
+				"/home/prat0318/projects/json_resume/lib/json_resume/reader.rb",
+				"/home/prat0318/projects/gitator/views/index.erb",
+				"/home/prat0318/projects/json_resume/lib/json_resume/json_resume.rb",
+				"/home/prat0318/projects/dbms/proj_2/tests/ddltest1.sql",
+				"/tmp/crontab.3yywCt/crontab",
+				"/home/prat0318/projects/dbms/proj_2/tests/ddltest.sql",
+				"/home/prat0318/projects/epl/sp2014/students/pa6768/Project1a/Vector.h",
+				"/home/prat0318/projects/json_resume/spec/json_resume/reader_spec.rb",
+				"/home/prat0318/projects/json_resume/lib/json_resume.rb",
+				"/home/prat0318/projects/json_resume/lib/page.mustache",
+				"/home/prat0318/projects/json_resume/lib/page.json",
+				"/home/prat0318/projects/json_resume/lib/header.mustache",
+				"/home/prat0318/projects/gitator/lib/gitator.rb",
+				"/home/prat0318/projects/prat0318.github.io/public/css/screen.css",
+				"/home/prat0318/projects/prettyresu.me/public/css/screen.css",
+				"/home/prat0318/projects/prat0318.github.io/index.html",
+				"/home/prat0318/projects/prettyresu.me/index.html",
+				"/home/prat0318/projects/prat0318.github.io/header.html",
+				"/home/prat0318/projects/prat0318.github.io/page.html",
+				"/home/prat0318/projects/prettyresu.me/page.html",
+				"/home/prat0318/Documents/courses/dbms/proj_1/MailOrder/create_mail.sql",
+				"/home/prat0318/projects/dbms/proj_2/data/emp.sql",
+				"/home/prat0318/projects/prat0318.github.io/core-page.html",
+				"/home/prat0318/projects/prat0318.github.io/public/css/gh-icon.css",
+				"/home/prat0318/projects/osr-scheduler/public_html/index.php",
+				"/home/prat0318/projects/osr-scheduler/resources/templates/home.php",
+				"/home/prat0318/projects/osr-scheduler/public_html/validateUser.php",
+				"/home/prat0318/projects/osr-scheduler/resources/library/entryManagement.php",
+				"/home/prat0318/projects/osr-scheduler/public_html/processAdminLogin.php",
+				"/home/prat0318/projects/osr-scheduler/README.txt",
+				"/home/prat0318/projects/osr-scheduler/README.md",
+				"/home/prat0318/projects/osr-scheduler/resources/library/templateFunctions.php",
+				"/home/prat0318/projects/osr-scheduler/public_html/processUser.php",
+				"/home/prat0318/projects/osr-scheduler/public_html/generateSchedule.php",
+				"/home/prat0318/projects/osr-scheduler/data/shiftdata-1.csv",
+				"/home/prat0318/projects/osr-scheduler/data/shiftdata-12.csv",
+				"/home/prat0318/projects/epl/sp2014/examples/String with move/Source.cpp",
+				"/home/prat0318/projects/epl/sp2014/students/pa6768/Project1a/README.txt",
+				"/home/prat0318/projects/epl/sp2014/students/pa6768/Project1a/Makefile_With_Comments",
+				"/home/prat0318/projects/epl/sp2014/students/pa6768/Project1a/Vector_PhaseA_unittests.cpp",
+				"/home/prat0318/projects/json_resume/lib/page.html",
+				"/home/prat0318/projects/json_resume/LICENSE.txt",
+				"/home/prat0318/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/prat0318/projects/gitator/config.ru",
+				"/home/prat0318/projects/gitator/views/login.erb",
+				"/home/prat0318/Documents/courses/dbms/proj_1/queries.sql",
+				"/home/prat0318/projects/gitator/Gemfile",
+				"/home/prat0318/projects/gitator/server.rb",
+				"/home/prat0318/Downloads/buildscript.sh",
+				"/home/prat0318/Documents/courses/dbms/proj_1/PrateekAgarwal-Proj1.sql",
+				"/home/prat0318/projects/prat0318.github.io/caricature.html",
+				"/home/prat0318/projects/gitator/public/gh-btn.css",
+				"/home/prat0318/projects/gitator/public/index.css",
+				"/home/prat0318/projects/gitator/views/not_found.erb",
+				"/home/prat0318/projects/unity_db/unity_app/views.py",
+				"/home/prat0318/projects/unity_db/template/query_output.html",
+				"/home/prat0318/Documents/Form-16 IBM FK/Flipkart_Manager_Reference.txt",
+				"/home/prat0318/projects/unity_db/unity_app/unity_service.py",
+				"/home/prat0318/projects/gitator/views/error.erb",
+				"/home/prat0318/projects/gitator/lib/pretty_date.rb",
+				"/home/prat0318/projects/gitator/public/gitator.js",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/client.rb",
+				"/home/prat0318/projects/unity_db/template/base.html",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/error.rb",
+				"/home/prat0318/projects/unity_db/static/assets/css/custom.css",
+				"/home/prat0318/projects/unity_db/static/assets/css/table.css",
+				"/home/prat0318/projects/unity_db/template/sidebar.html",
+				"/home/prat0318/projects/unity_db/unity_app/unity_helper.py",
+				"/home/prat0318/projects/unity_db/unity_app/urls.py",
+				"/home/prat0318/projects/unity_db/static/assets/js/database_view.js",
+				"/home/prat0318/projects/unity_db/unity_app/templatetags/helpers.py",
+				"/home/prat0318/projects/unity_db/static/assets/js/unityQueryForm.js",
+				"/home/prat0318/projects/unity_db/template/query_form.html",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/client/users.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/client/search.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/response/raise_error.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/client/authorizations.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/client/organizations.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/client/gists.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/authentication.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/rate_limit.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/client/rate_limit.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/client/repositories.rb",
+				"/home/prat0318/projects/gitator/Gemfile.lock",
+				"/home/prat0318/projects/octokit.rb/lib/octokit.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/configurable.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/repository.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/default.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/arguments.rb",
+				"/home/prat0318/projects/octokit.rb/lib/octokit/client/contents.rb",
+				"/home/prat0318/projects/django-datatables-view-example/project/apps/ddv_example/templates/ddv_example/users_list.html",
+				"/home/prat0318/projects/unity_db/static/assets/css/bootstrap-responsive.min.css",
+				"/home/prat0318/projects/django-datatables-view-example/project/apps/ddv_example/views.py",
+				"/home/prat0318/Downloads/tmp.py",
+				"/home/prat0318/projects/unity_db/unity_app/models.py",
+				"/home/prat0318/projects/django-datatables-view-example/project/apps/ddv_example/static/ddv_example/ddv_example.js",
+				"/home/prat0318/projects/django-datatables-view-example/project/apps/ddv_example/templates/base.html",
+				"/home/prat0318/projects/django-datatables-view-example/project/apps/ddv_example/urls.py",
+				"/home/prat0318/projects/django-datatables-view-example/eggs/django_datatables_view-1.7-py2.7.egg/django_datatables_view/base_datatable_view.py",
+				"/home/prat0318/projects/django-datatables-view-example/project/apps/ddv_example/__init__.py",
+				"/home/prat0318/projects/django-datatables-view-example/project/apps/ddv_example/models.py",
+				"/home/prat0318/projects/django-datatables-view-example/project/settings.py",
+				"/home/prat0318/projects/unity_db/requirements.txt",
+				"/home/prat0318/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/prat0318/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/prat0318/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/prat0318/projects/unity_db/template/navbar.html",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0063_auto__del_field_datasetadapter_human_readable_name__add_field_dataseta.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0011_add_seed_data_for_adapter.py",
+				"/home/prat0318/projects/unity_db/unity_app/data/dataset_adapter_seed.csv",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0062_rename_field_name_to_human_readable_name.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0045_auto__add_field_datasetncast_hwy_link.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0023_add_adapter_seed_data_for_hpms.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0058_change_hwy_link_ncast_format.py",
+				"/home/prat0318/projects/unity_db/unity_app/migrations/0061_add_sub_modes.py",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/libpl/discontiguous.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/script.txt",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/libpl/swiplInstalled.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/conform.txt",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/tmpconform.sdb.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/src/CoreMDELite/SDB.java",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/libpl/sdb.schema.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/libpl/print.pl",
+				"/home/prat0318/Documents/courses/FOP/fop/P7_Akanksha_Gaurav_Prateek/P6/MDELite2.3/src/CoreMDELite/GProlog.java",
+				"/home/prat0318/Downloads/EquarkWTests/src/quark/I.java",
+				"/home/prat0318/projects/c++_scripts/multicore/Galois-2.1.8/apps/regression/sgd_omp.cpp"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"*rb",
+					"*py",
+					"*",
+					"*py, *html",
+					"*py",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"hash",
+					"print",
+					"18",
+					"proc",
+					"proc2",
+					"grad_course",
+					"			@hash[\"bio_data\"][\"grad_courses\"] = {\"rows\" => \n				@hash[\"bio_data\"][\"grad_courses\"].each_slice(2).to_a.map{|i| {\"columns\"=>i}}\n			}\n",
+					"font-f",
+					"insertShift",
+					"INSERT INTO shift_dates",
+					"addShiftToAvailableShiftsNew",
+					"insertShift",
+					"USER ",
+					"SHIFT ",
+					"items",
+					"committees",
+					"github_url",
+					"Palatino",
+					"font-f",
+					"font",
+					"twitter",
+					"tw",
+					"a ",
+					"label-default",
+					"/span>{{",
+					"extra_curricular",
+					"research_experience",
+					"Technology",
+					"Science",
+					"description",
+					"emphnex",
+					"hover",
+					"MAX_SEARCH_LENGTH",
+					"^",
+					"gh-ico",
+					"style-type",
+					"h2",
+					"li",
+					"set_lo",
+					"log",
+					"ico",
+					"username",
+					"updateSidebar",
+					"sidebar",
+					"user_info",
+					"get_org_members",
+					"@@",
+					"cache",
+					"@org_m",
+					"main.",
+					"call_api_to_suggest_repos",
+					"setting",
+					"ajaxCall",
+					"queryset",
+					"GET",
+					"json",
+					"qs",
+					"col_names",
+					"dataset_name",
+					"DatasetFafVie",
+					"DatasetFafView",
+					"dataset_fa",
+					"dataset_faf",
+					"dataset_ncast_table",
+					"datatable",
+					"dataset_ncast_table",
+					"\n          ",
+					"maxCharLen",
+					"StarWithCount",
+					"text",
+					"call_api_to_suggest_repos",
+					"suggest_from",
+					"build_error_message",
+					"pp",
+					"extrac",
+					"phrasie",
+					"last_res",
+					"last_response",
+					"options",
+					"readme",
+					"def readme",
+					"dataset_faf_details",
+					"place",
+					"resultset",
+					"find_aggregate_fields",
+					"queryset",
+					"aggregate_over_queryset",
+					"find_aggregate_fields",
+					"only_aggregate",
+					"extra_head",
+					"filter_queryset",
+					"model",
+					"STATIC_URL",
+					"USERS_LIST_JSON_URL",
+					"UsersListJson",
+					"ctrl+0",
+					"field_name",
+					"json",
+					"submo",
+					"get_item",
+					"dataset_faf_id",
+					"Error : ",
+					"\\n+",
+					"0\\.",
+					"Error : ",
+					"\\n\\n",
+					"0.2",
+					"Error : ",
+					"scriptFile",
+					"w",
+					"labels_file",
+					"label_count",
+					"num_examples",
+					"labels",
+					"sparse_vector",
+					"ifdef",
+					"alpha",
+					"n",
+					"line",
+					"ato",
+					"to_i",
+					"k",
+					"mnist",
+					"comp",
+					"samples",
+					"chunk_size",
+					"threads",
+					"weights"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"hsh",
+					"hash_proc",
+					"array_proc",
+					"course_hash",
+					"--",
+					"dataset_faf",
+					"",
+					"\\n",
+					"\\n0.",
+					"",
+					"\\n",
+					"\\n0.2",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/prat0318/projects/gitator"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/prat0318/projects/prat0318.github.io"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/prat0318/projects/json_resume"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/prat0318/projects/osr-scheduler"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/prat0318/projects/prettyresu.me"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/prat0318/projects/dbms/proj_2/tests"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2254,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2248,
+										2248
+									]
+								],
+								"settings":
+								{
+									"auto_name": "a = Mustache.render(File.read(\"lib/page.mustache\")",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 927.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/prat0318/Downloads/a.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 669,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										669,
+										669
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/prat0318/Downloads/b.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "def func(p, a, g, x):",
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 160.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"generate",
+						"osr-scheduler/public_html/generateSchedule.php"
+					],
+					[
+						"process",
+						"osr-scheduler/public_html/processUser.php"
+					],
+					[
+						"gita",
+						"gitator/lib/gitator.rb"
+					],
+					[
+						"unityser",
+						"unity_db/unity_app/unity_service.py"
+					],
+					[
+						"index",
+						"gitator/views/index.erb"
+					],
+					[
+						"0045_auto__add_field_datasetncast_hwy_link.py",
+						"unity_app/migrations/0045_auto__add_field_datasetncast_hwy_link.py"
+					],
+					[
+						"migrations/0023_add_adapter_seed_data_for_hpms.py",
+						"unity_app/migrations/0023_add_adapter_seed_data_for_hpms.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 33.0,
+				"selected_items":
+				[
+				],
+				"width": 431.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 232.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 7,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
